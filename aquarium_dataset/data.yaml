@@ -1,0 +1,5 @@
+train: D:/Internships/intern intelligence/jupyter notebook/aquarium_dataset/train/images
+val: D:/Internships/intern intelligence/jupyter notebook/aquarium_dataset/valid/images
+
+nc: 7
+names: ['fish', 'jellyfish', 'penguin', 'puffin', 'shark', 'starfish', 'stingray']
